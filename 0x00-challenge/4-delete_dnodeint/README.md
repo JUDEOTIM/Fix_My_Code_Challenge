@@ -1,0 +1,1 @@
+-Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c
